@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/stylesheets/package.css">
+    <link rel="stylesheet" href="/stylesheets/packageandroid.css">
+    <link rel="stylesheet" href="/stylesheets/packagetablet.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet'>
+    <script src="/javascript/querytable.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Alata' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <title>Document</title>
+<style>
+    #table{
+        display:none;
+    }
+    #alert{
+        display:none;
+    }
+</style>
+   
+</head>
+<body data-aos="fade">
+  
+     
+<ul id="header" >
+    <li class="menuitem"  ><a  id="brand"  href="#home" data-aos="fade-up">  <img src="logoimg.png" id="logoimg"  /> <img src="logo.png" id="logo"  /> </a></li>
+  
+ 
+    <li class="menuitem" style="float:right;"><a href="https://arun665.github.io/iotlabhome/" data-aos="fade-up">   <img src="profile.png" id="profile"  /></a></li>
+    <li class="menuitem" style="float:right;"><a href="https://arun665.github.io/iotlab4/" data-aos="fade-up">  <img src="cart.png" id="cart"  /> </a></li> 
+</ul>
+<div class="container" id="form">
+
+    <div class="form-group">
+        <label for="usr" > <span class="badge badge-danger" style="font-size:40px;">for team only</span>:</label>
+        <br>
+        <br>
+        <form method="post" action="/check">
+       
+<% if( error != ""){ %>
+  <div class="alert alert-danger" >
+    DONT TRY TO ACCESS THE DATA , YOU ARE A FAKE MEMBER
+     </div>
+  
+    <% } %>
+      <label> Enter password to access data</label>
+        <input type="password" class="form-control" id="password" name="password">
+      </div>
+     <button type="submit" class="btn btn-outline-primary"> submit password </button>
+    </form>
+    </div>
+
+<br>
+<br>
+
+<div class="container-fluid" id="footer" style="margin-bottom:0px;background-color: #007FEB;padding-left:6%;position:fixed;bottom:0px;" data-aos="fade">
+<table style="width: 100%;">
+  <tr>
+    <td id="lastcol1" >
+ <img src="lastimg.png" class="lastimg" />
+    </td>
+<td  id="lastcol2">
+
+   
+<table id="tableb" style="text-align:left;font-family: 'Roboto Condensed';font-weight:normal">
+  <tr>
+    <td colspan="2"> <h4>Contact:</h4></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+         <img src="map.png" id="map" style="vertical-align: top;margin-top:3px" />
+    </td>
+    <td  style="vertical-align:top;"> 
+      <p style="vertical-align:top;">Address - Room No. 6, 3rd Floor, East Wing,<br> M. Visvesvaraya Block, IIT Ropar, Rupnagar, <br>
+        Punjab, India - 140001</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+         <img src="mail.png" id="mail" />
+    </td>
+    <td>
+ <p> info@scratchnest.com</p>
+    </td>
+  </tr>
+  
+</table>
+
+          </td>
+  </tr>
+
+
+
+
+
+  <tr>
+ 
+
+  </tr>
+  <tr>
+    <td colspan="2">
+<buttons id="footerbuttons" style="float:right;">
+ 
+<img src="facebook.png" class="fa" />
+<img src="insta.png"   class="fa" />
+<img src="linkedin.png"  class="fa fa2" />
+
+</buttons>
+
+ </td>
+ </tr>
+ </table>
+</div>
+
+
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+
+
+    duration: 1000,
+    once: true, 
+  });
+</script>
+<script>
+
+</script>
+</body>
+</html>

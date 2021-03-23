@@ -1,0 +1,564 @@
+@media screen and (max-width: 992px) and    (min-width: 576px){
+   
+
+
+    #student{
+        background-image: url('student.png');
+        border-color: 1px solid blue;
+        border-radius: 60px;
+        height:550px;
+        width:90%;
+        background-size: cover;
+        
+        margin-left: auto;
+        margin-right: auto;
+        
+            }
+
+
+            #studentbox{
+                PADDING:5%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:40px;
+                width:100%;
+                position: relative;
+                margin-left:3%;
+            
+                margin-bottom:1%;
+            top:330px;
+            
+            }
+            
+            #headerp{
+                font-size:1.8vw;
+            }
+
+       
+
+        
+      
+            
+ 
+            #buttons{
+                position: relative;
+                top:160px;
+                float:right;
+                
+                margin-right:5%;
+                
+                
+                }
+
+  
+        
+#projectcard{
+    height:700px;
+    margin-left: auto;margin-right: auto;text-align:center;background-color: #d9d9d9; padding:1%;width:100%;border-radius: 20px;font-weight: bold;
+}
+#modulescard{
+    height:700px;
+    margin-left: auto;margin-right: auto;text-align:center;background-color: #d9d9d9; padding:1%;width:100%;border-radius: 20px;font-weight: bold;
+}
+#moduleheading{
+    font-size:4vw;
+}
+
+
+#projectheading{
+    font-size:4vw;
+}
+
+.divs2{
+    margin-top:8%;
+ }
+ 
+ .divs3{
+    margin-top:8%;
+  }
+        .legend2{
+            display:none;
+        }
+        
+
+    .legend3{
+        display:none;
+    }
+
+    
+#button1{
+    background-color: white;
+    border:2px solid #007FEB;
+    color:#007FEB;
+    height:70px;
+    width:100%;
+    margin-bottom:15px;
+    border-radius: 2px;
+    font-size:3vw;
+    font-weight: BOLD;
+    
+transition: 1s;
+
+}
+        #button1:hover{
+            border-radius: 25px;
+            background-color: #009999;
+            border:2px solid #4da6ff;
+            color:white;
+        
+        }
+        #button2{
+            background-color: #007FEB;
+            border:2px solid #007FEB;
+            color:white;
+            height:70px;
+            font-weight: bold;
+            width:100%;
+            border-radius: 2px;
+            font-size:3vw;
+            transition: 1s;
+            
+        }
+        #button2:hover{
+            background-color:#009999;
+        color:white;
+        border:2px solid #4da6ff;
+        border-radius: 25px;
+        }
+        
+        .vl {
+            border-left: 6px solid grey;
+            height: 120px;
+            
+          }
+        
+          #container2{
+              width:95%;
+              margin-left:auto;
+              margin-right: auto;
+          }
+.divider2{
+    border-left: 6px solid grey;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  
+}
+#card4{
+    height:750px;
+    width:100%;
+}
+#temp{
+    display:none;
+}
+          #heading1{
+            font-size:4vw;
+            font-family: "Berkshire Swash";
+            text-align: center;
+            color:grey;
+        
+        }
+        
+#tempimg2{
+    display:none;
+}
+#tempimg1{
+    height:18%;width:25%;;
+    position:absolute;overflow:visible;top:-50px;
+}
+#tempdiv{
+    margin-right:2.5%;
+}
+#cardtempwidth{
+    width:165%;
+}
+
+#tempdivheading{
+    width:100%;font-weight: bold;margin-left: auto;margin-right: auto;font-size:2vw;
+}
+#tempdivpara{
+    width:100%;overflow:visible;;font-weight:bold;margin-left: auto;margin-right: auto;font-size:1.3vw;
+}
+
+#secondlastcard{
+    text-align:center;
+}
+     
+            .hl{
+                margin-top:3%;
+        
+                border-top:6px solid grey;
+                margin-right:auto;
+                margin-left:auto;
+                width:50%;
+            }
+
+            #tableb{
+                color:white;font-weight:bold;
+            }
+            .lastimg{
+                height:150px;
+                width:300px;
+            }
+          
+            #footer{
+                padding:2%;
+            
+            }
+            .legendheading2{
+                text-align: center;
+            } 
+
+            #b{
+                height:80px;
+                width:80px;
+                
+                    }
+            .btn-primary{
+                height:150px;
+            }
+           #buttonheading{
+               font-size:20px;
+           }
+           #buttonpara{
+               display:none;
+           }
+    
+        
+
+        #c{
+            height:50px;
+            width:50px;
+        }
+        #btn2{
+            height:100px;
+            width:100px;
+            border-radius:10px;
+        }
+        #buttonheading2{
+            font-size:15px;
+        }
+        #btnrow2{
+            width:80%;
+        }
+
+
+
+        #tempimg2{
+            height:10%;width:20%;
+        }
+
+
+
+       
+
+
+    #header {
+        list-style-type: none;
+        margin: 0;
+        padding-left: 4%;
+        padding-right: 1%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom: 3%;;
+ 
+      }
+      #brand{
+          padding:3px 6px;
+
+      }
+      #logo{
+          height: 60px;
+          width:179px;
+
+      }
+      
+      #logoimg{
+          height:40px;
+          width:40px;
+      }
+      #cart{
+        height:50px;
+        width:80px;  
+      }
+      #profile{
+          margin-top:6px;
+        height:40px;
+        width:65px;     
+       }
+       
+       
+      li{
+          height:100%;
+      }
+      .menuitem {
+        float: left;
+        margin-top: auto;
+      margin-bottom: auto;
+      height: 100%;
+      
+      }
+      #legend1{
+          display: none;;
+        height:150px;width:200px;
+      }
+
+      #fieldset1{
+        margin-top:4%;
+        width:92%;
+
+    }
+
+    .legendheading{
+        position:relative;
+        font-size:50px;
+        top:0px;
+        font-size:4vw;
+       }
+       .legendheading2{
+           margin-left:30%;
+           margin-top:1.6%;
+           font-size:4vw;
+           margin-bottom:50px;
+       }
+
+      .menuitem a {
+    font-size: 25px;
+    font-family: 'Berkshire Swash';
+        display: block;
+        color: white;
+        height: 100%;
+        text-align: center;
+        padding: 6px 3px;
+        margin-top: auto;
+        margin-bottom: auto;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color:#0080ff;
+        text-decoration: none;
+        color:white;
+      }
+      #secondlastcard{
+          font-size: 2vm;
+      }
+      #iotcontents{
+        width:90%;
+      }
+      
+#secondlastdiv{
+    width:90%;
+}
+#studentboxheading{
+    font-size:4vw;
+    font-weight:600;
+}
+
+
+.table3{
+    width:100%;
+}
+#table3row {
+    width:220px;
+    padding-top:5px;
+    padding-bottom:5px;
+    height:120px;
+        
+    }
+    
+    #buttonheading{
+        font-size:3vw;
+        text-align:left;
+    }
+    #temppadding{
+        padding-left:40px;
+    }
+    .legend4{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    #map{
+        width:25px;
+    }
+    #mail{
+        width:25px;
+    }
+   
+    #cardtempwidth{
+      
+        margin-top:3%;
+    }
+    #temphr{
+        display: none;
+        
+    }
+    #benefitsmargin{
+        margin-top:7%;
+    }
+    .fa {
+    
+        height: 50px;
+            width: 50px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+        
+            
+            transition: 1s;
+          }
+          #headervl{
+            padding-left:5%;
+        }
+        
+          #iottable1{
+            border-collapse:collapse;
+            width:85%;
+            color:#302f2f;font-size:1.8vw;;font-family: Sofia;
+            font-size:20px;
+        }
+        #iottable2{
+            border-collapse:collapse;
+            width:85%;
+            color:#302f2f;font-size:1.8vw;;font-family: Sofia;
+            font-size:20px;
+        }   
+    
+    }
+
+
+
+    
+  
+    @media screen and (max-width: 767px) and    (min-width: 576px){
+
+        
+    #student{
+        background-image: url('student.png');
+        border-color: 1px solid blue;
+        border-radius: 60px;
+        height:450px;
+        width:90%;
+        background-size: cover;
+        
+        margin-left: auto;
+        margin-right: auto;
+        
+            }
+            #studentbox{
+                PADDING:5%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:40px;
+                width:100%;
+                position: relative;
+                margin-left:3%;
+            
+                margin-bottom:1%;
+            top:280px;
+            
+            }
+            
+ 
+            #buttons{
+                position: relative;
+                top:150px;
+                float:right;
+                
+                margin-right:5%;
+                
+                
+                }
+                
+                #button1{
+                    height:50px;
+            
+                
+                }
+                #button2{
+                    height:50px;
+                }
+                
+#scrollfaq{
+    font-size:22px;
+}
+
+            
+#table3row {
+    width:150px;
+    padding-top:5px;
+    padding-bottom:5px;
+    height:150px;
+        
+    }
+    #buttonheading{
+        font-size:3vw;
+        text-align:center;
+    }
+    #cardtempwidth{
+        width:75%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #tempdivheading{
+        font-size:4vw;
+    }
+    #tempdivpara{
+        font-size:2.5vw;
+    }
+    #card4{
+        margin-bottom:10%;
+    }
+#tempimg1{
+    height:190px;
+}
+#studentboxheading{
+    font-size:4vw;
+}
+.vl{
+    height:90px;
+}
+#card4{
+    height:820px;
+    width:100%;
+}
+
+.divider2{
+    height:380px;
+}
+#iottable1{
+    border-collapse:collapse;
+    width:85%;
+    color:#302f2f;;font-family: Sofia;font-size:20px;
+}
+#iottable2{
+    border-collapse:collapse;
+    width:85%;
+    color:#302f2f;;font-family: Sofia;font-size:20px;
+}
+
+    }
+
+
+
+    
+
+  @media screen and (max-width: 450px) and    (min-width: 399px){
+
+        
+    #studentbox{
+        PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:25px;
+        width:100%;
+        position: relative;
+        
+    
+        margin-bottom:1%;
+    top:230px;
+    
+    }
+
+
+}
+
+
+
+

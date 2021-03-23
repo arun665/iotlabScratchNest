@@ -1,0 +1,484 @@
+@media screen and (max-width: 576px) {
+   
+
+    #student{
+        background-image: url('student.png');
+        border-color: 1px solid blue;
+        border-radius: 25px;
+        height:385px;
+        width:95%;
+        background-size: cover;
+        
+        margin-left: auto;
+        margin-right: auto;
+        
+            }
+        
+        
+#studentbox{
+    PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:25px;
+    width:100%;
+    position: relative;
+    
+
+    margin-bottom:1%;
+top:200px;
+
+}
+#studentboxheading{
+    font-size:10vw;
+}
+
+#card4{
+    width:100%;
+}
+           .legendheading2{
+               text-align: center;
+               font-size:35px;
+           } 
+           .legendheading{
+            text-align: center;
+            font-size:35px;
+        } 
+        
+        #buttons{
+        position:relative;
+    
+        float:right;
+        top:180px;
+        margin-bottom:5%;
+        margin-top:17%;
+        margin-left: auto;
+        margin-right: auto;
+        }
+        #headervl{
+            padding-left:1%;
+        }
+        
+        #button1{
+            background-color: white;
+            border:2px solid #007FEB;
+            color:#007FEB;
+            height: 60px;;
+            width:100%;
+            margin-bottom:2px;
+            border-radius: 10px;
+            font-size:22px;
+
+        transition: 1s;
+        
+        }
+        #button1:hover{
+            border-radius: 25px;
+            background-color: #009999;
+            border:2px solid #007FEB;
+            color:white;
+        
+        }
+        #iotcontents{
+            width:90%;
+          }
+        #button2{
+            background-color: #007FEB;
+            border:2px solid #007FEB;
+            color:white;
+            height:60px;
+            width:100%;
+            border-radius: 10px;
+            font-size:22px;
+            transition: 1s;
+      
+        }
+        #button2:hover{
+            background-color:#009999;
+        color:white;
+        border:2px solid #4da6ff;
+        border-radius: 25px;
+        }
+        
+        .vl {
+            border-left: 6px solid grey;
+            height: 100px;
+            
+          }
+          #tempdivheading{
+            width:80%;margin-left: auto;margin-right: auto;
+        }
+        #tempdivpara{
+            width:100%;overflow:visible;;font-size:15px;margin-left: auto;margin-right: auto;
+            font-weight:normal;
+        }
+        
+#tempimg2{
+    display:none;
+}
+#secondlastcard{
+    text-align:center;
+}
+#footer{
+    padding:2%;
+
+}
+
+
+          #container2{
+              
+            margin-top:40%;
+          }
+          #heading1{
+            font-size:35px;
+            text-align: center;
+            color:black;
+        
+        }
+
+          
+        
+#projectcard{
+    height:550px;
+    margin-left: auto;margin-right: auto;text-align:center;background-color: #d9d9d9; padding:1%;width:100%;border-radius: 20px;;
+}
+#modulescard{
+    height:650px;
+    margin-left: auto;margin-right: auto;text-align:center;background-color: #d9d9d9; padding:1%;width:100%;border-radius: 20px;;
+}
+
+#fieldset1{
+
+    font-size:15px;
+    margin-bottom:10%;
+}
+#bullet{
+    width:10px;
+}
+.legend3{
+  margin-right: auto;
+  margin-left:auto;
+ text-align: center;
+}
+#card3{
+    background-color: #b3d9ff;
+    padding-bottom:5%;
+}
+#tempimg1{
+    display:none;
+}
+#iottable{
+    border-collapse: separate;
+    border-spacing: 10px;color:black;font-size:20px;font-family: Sofia;
+    width:100%;
+}
+#iottable1{
+    width:100%;
+}
+.divider2{
+    display: none;
+}
+#card4{
+    margin-bottom:10%;
+}
+.legend4{
+    text-align: center;
+}
+        #card1{
+
+            width:100%;
+            font-weight: bold;;
+        }
+        #legend1{
+            text-align: center;
+            height:150px;width:200px;
+            margin-left:auto;
+            margin-right:auto;
+      
+        }
+        #modules{
+
+            margin-bottom:20%;
+        }
+        #scrollfaq{
+            font-size:15px;
+        }
+        
+.moduleheading{
+    font-size:35px;
+}
+        #projects{
+
+            margin-bottom:8%;
+        }
+        #buttonheading{
+            text-align:center;
+            
+        }
+    
+
+
+
+        #b{
+            height:50px;
+            width:50px;
+            
+                }
+        .btn-primary{
+            height:100px;
+        }
+       #buttonheading{
+           font-size:19px;
+       }
+       #buttonpara{
+           display:none;
+       }
+       .table3{
+        width: 100%;
+    }
+    
+#table3row {
+    
+    padding-top:5px;
+    padding-bottom:5px;
+    height:110px;
+        
+    }
+    
+    .divs2{
+        margin-top:10%;
+        font-size:15px;
+    }
+    .divs3{
+        margin-top:10%;
+        font-size:15px;
+    }
+    
+    #tempdiv{
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom:10%;
+    }
+
+
+
+    #c{
+        height:50px;
+        width:50px;
+    }
+    #btn2{
+        height:95px;
+        width:95px;
+        border-radius:10px;
+    }
+    #buttonheading2{
+        font-size:15px;
+    }
+    #btnrow2{
+        width:80%;
+    }
+
+
+
+
+
+#secondlastdiv{
+    margin-top:10%;
+    width:85%;
+}
+
+
+
+
+
+
+
+
+
+
+
+#header {
+
+    list-style-type: none;
+    margin: 0;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+    overflow: hidden;
+    width:100%;
+   background-color:#007FEB;
+   margin-bottom: 3%;;
+  }
+  #brand{
+      padding: 0px 1px;
+  }
+  #logo{
+      height: 60px;
+      width:160px;
+
+  }
+  #logoimg{
+    height: 30px;
+    width:30px;
+
+  }
+ #cart{
+       height:40px;
+       width:60px;   
+      }
+      #profile{
+          margin-top:3px;
+        height:35px;
+        width:55px;     
+       }
+       
+     
+  
+      
+      li{
+          height:100%;
+      }
+
+      .menuitem {
+        float: left;
+        margin-top: auto;
+      margin-bottom: auto;
+      height: 100%;
+      
+      }
+      
+      .menuitem a {
+    font-size: 25px;
+    font-family: 'Berkshire Swash';
+        display: block;
+        color: white;
+        height: 100%;
+        text-align: center;
+        padding: 9px 0px;
+        margin-top: auto;
+        margin-bottom: auto;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color:#0080ff;
+        text-decoration: none;
+        color:white;
+      }
+    #tableb{
+        color:white;
+        font-size:12px;
+        border-collapse: collapse;
+    }
+    buttons img{
+height:40px;
+width:40px;
+    }
+      .lastimg{
+        height:90px;
+        width:160px;
+    }
+    #iottable1{
+        border-collapse:collapse;
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+        color:#302f2f;font-size:15px;;font-family: Sofia;
+    }
+    #iottable2{
+        border-collapse:collapse;
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+        color:#302f2f;font-size:15px;;font-family: Sofia;
+    }
+    
+.fa {
+    
+    height: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        margin: 4px 2px;
+    
+        
+        transition: 1s;
+      }
+      #mail{
+          width:15px;
+          height:15px;
+ 
+      }
+      #map{
+  
+        width:15px;
+        height:15px;
+    }
+    #card4{
+        width:100%;
+    }
+    #headerp{
+        font-size:15px;
+    }
+    #container3{
+        margin-top:10%;
+
+        margin-right:auto;
+        margin-left:auto;
+    }
+    
+    #cardtempwidth{
+      
+        margin-top:1%;
+ 
+    }
+    #benefitsmargin{
+        margin-top:0%;
+    }
+    .legendheading{
+        position:relative;
+        font-size:35px;
+        top:0px;
+       }
+       .legendheading2{
+       
+ 
+           font-size:35px;
+           margin-bottom:25px;
+       }
+       #fieldset1{
+           font-size:15px;
+       }
+       #card4{
+        FONT-SIZE:15PX;
+       }
+       
+       #benefits{
+        margin-top:0%;
+    }
+    #bullet{
+        width:10px;
+    }
+    #heading1{
+        font-size:35px;
+        font-weight:normal;
+    }
+    #iotkitheading{
+        font-size:35px;
+        
+    }
+    }
+
+    @media screen and (max-width: 450px) and    (min-width: 390px){
+
+        
+        #studentbox{
+            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:25px;
+            width:100%;
+            position: relative;
+            
+        
+            margin-bottom:1%;
+        top:230px;
+        
+        }
+    
+    
+    }
+    
