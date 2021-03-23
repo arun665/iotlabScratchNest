@@ -24,7 +24,7 @@ const Query=new mongoose.model("Query",iotlabschema);
 
 
 const app = express();
-const port = 3000;
+const port = 3000||process.env.PORT;
 
 app.use(bodyParser.urlencoded({ extended: false }))
  
